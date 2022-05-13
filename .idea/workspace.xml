@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86c1931e-50fe-43f7-9057-c43e814e2cbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/inherclass/App.java" afterDir="false" />
+    <list default="true" id="86c1931e-50fe-43f7-9057-c43e814e2cbd" name="Changes" comment="Belajar Inher Class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/app/StaticApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/statickeyword/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/statickeyword/MathUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/statickeyword/constact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fawzi/linggo/inherclass/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/inherclass/Company.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -53,7 +56,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.fawzi.linggo.inherclass.App">
+  <component name="RunManager" selected="Application.StaticApp">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fawzi.linggo.app.App" />
       <module name="Belajar_OOP" />
@@ -80,19 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PholimhoerphiApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PholimhoerphiApp" />
-      <module name="Belajar_OOP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ProductApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fawzi.linggo.data.ProductApp" />
       <module name="Belajar_OOP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="fawzi.linggo.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fawzi.linggo.app.StaticApp" />
+      <module name="Belajar_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fawzi.linggo.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticApp" />
         <item itemvalue="Application.fawzi.linggo.inherclass.App" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.ProductApp" />
         <item itemvalue="Application.CategoryApp" />
-        <item itemvalue="Application.PholimhoerphiApp" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +141,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652318849962</updated>
     </task>
+    <task id="LOCAL-00001" summary="Belajar Inher Class">
+      <created>1652408456863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652408456863</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,5 +161,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Belajar Inher Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Belajar Inher Class" />
   </component>
 </project>
