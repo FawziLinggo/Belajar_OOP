@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c1931e-50fe-43f7-9057-c43e814e2cbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ManagerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PersonApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PholimhoerphiApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ShapeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VicePresident.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/app/CategoryApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/data/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/data/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/data/ProductApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/inherclass/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/inherclass/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fawzi/linggo/inherclass/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/inherclass/Company.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,10 +49,11 @@
     "last_opened_file_path": "/home/ozi/belajar/java/Belajar_OOP",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.fawzi.linggo.inherclass.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fawzi.linggo.app.App" />
       <module name="Belajar_OOP" />
@@ -98,13 +80,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ManagerApp" />
-      <module name="Belajar_OOP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PholimhoerphiApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PholimhoerphiApp" />
       <module name="Belajar_OOP" />
@@ -125,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="fawzi.linggo.inherclass.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fawzi.linggo.inherclass.App" />
+      <module name="Belajar_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fawzi.linggo.inherclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fawzi.linggo.inherclass.App" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.ProductApp" />
         <item itemvalue="Application.CategoryApp" />
         <item itemvalue="Application.PholimhoerphiApp" />
-        <item itemvalue="Application.ManagerApp" />
       </list>
     </recent_temporary>
   </component>
