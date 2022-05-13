@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86c1931e-50fe-43f7-9057-c43e814e2cbd" name="Changes" comment="Belajar Inher Class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/app/StaticApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/statickeyword/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/statickeyword/MathUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/statickeyword/constact.java" afterDir="false" />
+    <list default="true" id="86c1931e-50fe-43f7-9057-c43e814e2cbd" name="Changes" comment="Belajar Static Keywords">
+      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/app/RecordApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/record/Record.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -56,22 +55,9 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StaticApp">
+  <component name="RunManager" selected="Application.RecordApp">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fawzi.linggo.app.App" />
-      <module name="Belajar_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fawzi.linggo.app.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CategoryApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fawzi.linggo.app.CategoryApp" />
       <module name="Belajar_OOP" />
       <extension name="coverage">
         <pattern>
@@ -89,6 +75,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="fawzi.linggo.data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecordApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fawzi.linggo.app.RecordApp" />
+      <module name="Belajar_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fawzi.linggo.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecordApp" />
         <item itemvalue="Application.StaticApp" />
         <item itemvalue="Application.fawzi.linggo.inherclass.App" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.ProductApp" />
-        <item itemvalue="Application.CategoryApp" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652408456863</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Belajar Static Keywords">
+      <created>1652410338085</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652410338085</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +170,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Belajar Inher Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Belajar Inher Class" />
+    <MESSAGE value="Belajar Static Keywords" />
+    <option name="LAST_COMMIT_MESSAGE" value="Belajar Static Keywords" />
   </component>
 </project>
