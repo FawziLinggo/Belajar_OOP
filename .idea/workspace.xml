@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86c1931e-50fe-43f7-9057-c43e814e2cbd" name="Changes" comment="Belajar Enum">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/app/ValidasiApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/eror/ValidationExaption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/eror/ValidationUtil.java" afterDir="false" />
+    <list default="true" id="86c1931e-50fe-43f7-9057-c43e814e2cbd" name="Changes" comment="Belajar Exaption">
+      <change afterPath="$PROJECT_DIR$/TES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fawzi/linggo/app/ReadApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,9 +55,22 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ValidasiApp">
+  <component name="RunManager" selected="Application.ReadApp">
     <configuration name="EnumApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fawzi.linggo.app.EnumApp" />
+      <module name="Belajar_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fawzi.linggo.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fawzi.linggo.app.ReadApp" />
       <module name="Belajar_OOP" />
       <extension name="coverage">
         <pattern>
@@ -109,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fawzi.linggo.inherclass.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fawzi.linggo.inherclass.App" />
-      <module name="Belajar_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fawzi.linggo.inherclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadApp" />
         <item itemvalue="Application.ValidasiApp" />
         <item itemvalue="Application.EnumApp" />
         <item itemvalue="Application.RecordApp" />
         <item itemvalue="Application.StaticApp" />
-        <item itemvalue="Application.fawzi.linggo.inherclass.App" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652415071497</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Belajar Exaption">
+      <created>1652426637405</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652426637405</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +194,7 @@
     <MESSAGE value="Belajar Static Keywords" />
     <MESSAGE value="Belajar Record" />
     <MESSAGE value="Belajar Enum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Belajar Enum" />
+    <MESSAGE value="Belajar Exaption" />
+    <option name="LAST_COMMIT_MESSAGE" value="Belajar Exaption" />
   </component>
 </project>
